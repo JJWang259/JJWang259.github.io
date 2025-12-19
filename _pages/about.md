@@ -39,7 +39,7 @@ China Agricultural University (2014-2018)
 {% assign newsItems = site.data.news | sort: 'date' | reverse %}
 {% for news in newsItems limit:5 %}
   <p>
-    <strong>{{ news.date | date: "%Y-%m-%d" }}</strong>: 
+    <strong>{{ news.date }}</strong>: 
     {{ news.title | markdownify | remove: '<p>' | remove: '</p>' }}
   </p>
 {% endfor %}
