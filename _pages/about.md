@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in the Department of Animal Science at North Carolina State University, working with [Dr. Jicai Jiang](https://cals.ncsu.edu/animal-science/people/jicai-jiang). My research focuses on developing and applying statistical genomics methods for livestock populations, with particular emphasis on cattle and pig genetics.
+I am a Postdoctoral Researcher in the Department of Animal Science at North Carolina State University working with [Dr. Christian Maltecca](https://cals.ncsu.edu/animal-science/people/christian-maltecca/) and [Dr. Jicai Jiang](https://cals.ncsu.edu/animal-science/people/jicai-jiang/). My research focuses on developing and applying statistical genomics methods for livestock populations. Previously, I obtained my Ph.D. in Animal Science (Quantitative Genetics) and M.S. in Statistics from NC State University under the supervision of Dr. Jicai Jiang. I also hold an M.S. in Animal Breeding and Genetics and a B.S. in Animal Science from China Agricultural University.
 
 ## Research Interests
 
