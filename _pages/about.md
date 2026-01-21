@@ -7,16 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in the Department of Animal Science at North Carolina State University working with [Dr. Christian Maltecca](https://cals.ncsu.edu/animal-science/people/christian-maltecca/) and [Dr. Jicai Jiang](https://cals.ncsu.edu/animal-science/people/jicai-jiang/). My research focuses on developing and applying statistical genomics methods for livestock populations. Previously, I obtained my Ph.D. in Animal Science (Quantitative Genetics) and M.S. in Statistics from NC State University under the supervision of Dr. Jicai Jiang. I also hold an M.S. in Animal Breeding and Genetics and a B.S. in Animal Science from China Agricultural University.
+I am a Postdoctoral Researcher in the Department of Animal Science at North Carolina State University working with [Dr. Christian Maltecca](https://cals.ncsu.edu/animal-science/people/christian-maltecca/) and [Dr. Jicai Jiang](https://cals.ncsu.edu/animal-science/people/jicai-jiang/). Previously, I obtained my Ph.D. in Animal Science (Quantitative Genetics) and M.S. in Statistics from NC State University under the supervision of Dr. Jicai Jiang.
 
-## Research Interests
-
-My work centers on adapting and developing fine-mapping and rare variant analysis methods for farm animal populations. These populations present unique analytical challenges compared to human genetics, including extensive genetic relatedness and strong linkage disequilibrium patterns. I am particularly interested in:
-
-- Statistical fine-mapping methods for livestock (BFMAP-SSS, FINEMAP-adj, SuSiE-adj)
-- Rare variant association analysis
-- Genomic prediction and quantitative trait locus (QTL) mapping
-- Computational methods for large-scale genomic data analysis
+My research focuses on statistical and computational methods for genomics. During my PhD, I investigated approaches for genomic prediction using deep learning, GWAS, fine-mapping, functional enrichment analysis, and heritability partitioning in farm animalscharacterized by extensive genetic relatedness and strong linkage disequilibrium. My current work focuses on rare variant association analysis in farm animal populations to characterize the role of rare variants in complex traits.
 
 
 ## Education
