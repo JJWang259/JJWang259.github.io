@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher in the Department of Animal Science at North Carolina State University working with [Dr. Christian Maltecca](https://cals.ncsu.edu/animal-science/people/christian-maltecca/) and [Dr. Jicai Jiang](https://cals.ncsu.edu/animal-science/people/jicai-jiang/). Previously, I obtained my Ph.D. in Animal Science (Quantitative Genetics) and M.S. in Statistics from NC State University under the supervision of Dr. Jicai Jiang.
 
-My research focuses on statistical and computational methods for genomics. During my PhD, I investigated approaches for genomic prediction using deep learning, GWAS, fine-mapping, functional enrichment analysis, and heritability partitioning in farm animalscharacterized by extensive genetic relatedness and strong linkage disequilibrium. My current work focuses on rare variant association analysis in farm animal populations to characterize the role of rare variants in complex traits.
+My research focuses on statistical and computational methods for genomics. During my PhD, I investigated approaches for genomic prediction using deep learning, GWAS, fine-mapping, functional enrichment analysis, and heritability partitioning in farm animals characterized by extensive genetic relatedness and strong linkage disequilibrium. My current work focuses on rare variant association analysis in farm animal populations to characterize the role of rare variants in complex traits.
 
 
 ## Education
