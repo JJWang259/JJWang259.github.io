@@ -23,7 +23,7 @@ repository               : "JJWang259/JJWang259.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "JJ_test.jpg"
+  avatar           : "JJ_test.png"
   name             : "Junjian Wang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Animal Science | Statistical Genomics"
