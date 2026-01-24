@@ -1,6 +1,7 @@
 ---
 title: "Fine-mapping methods for complex traits: Essential adaptations for samples of related individuals"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-fine-mapping-bbib
 excerpt: 'This paper presents adaptations of fine-mapping methods for populations with genetic relatedness.'
 date: 2025-11-21
