@@ -10,7 +10,9 @@ author_profile: true
   {% for talk in sorted_talks %}
     <li style="margin:0 0 1.5rem 0;">
       <strong>{{ talk.date | date: "%B %Y" }}</strong><br>
-      <strong>{{ talk.title }}</strong><br>
+      {% if talk.title and talk.title != "" %}
+        <strong>{{ talk.title }}</strong><br>
+      {% endif %}
       <em>{{ talk.type }}</em> | {{ talk.event }}, {{ talk.location }}
       {% if talk.link and talk.link != "" %}
         <a href="{{ talk.link }}">[link]</a>
