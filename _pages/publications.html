@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="pub-legend" style="margin-bottom:1rem; font-size:.95em;">
-  <em>* co-first authors; # co-corresponding authors</em>
+  (*): co-first authorship; (#): corresponding author
 </div>
 
 <ul style="list-style:none; padding-left:0; margin:0;">
@@ -15,7 +15,7 @@ author_profile: true
     <li style="margin:0 0 .75rem 0;">
       {{ pub.citation | replace: "Wang, J.", "**Wang, J.**" | markdownify | strip_newlines | remove: '<p>' | remove: '</p>' }}
       {% if pub.paperurl %}
-        [[link]]({{ pub.paperurl }})
+        <a href="{{ pub.paperurl }}">[link]</a>
       {% endif %}
     </li>
   {% endfor %}
