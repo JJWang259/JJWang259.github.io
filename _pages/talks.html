@@ -9,9 +9,9 @@ author_profile: true
   {% assign sorted_talks = site.data.talks | sort: "date" | reverse %}
   {% for talk in sorted_talks %}
     <li style="margin:0 0 1.5rem 0;">
-      <strong>{{ talk.date | date: "%B %Y" }}</strong><br>
+      <u>{{ talk.date | date: "%B %Y" }}</u><br>
       {% if talk.title and talk.title != "" %}
-        <strong>{{ talk.title }}</strong><br>
+        {{ talk.title }}<br>
       {% endif %}
       <em>{{ talk.type }}</em> | {{ talk.event }}, {{ talk.location }}
       {% if talk.link and talk.link != "" %}
@@ -20,3 +20,4 @@ author_profile: true
     </li>
   {% endfor %}
 </ul>
+```
