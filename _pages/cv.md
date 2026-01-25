@@ -11,54 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Ph.D. in Animal Science** (2021-2025)  
+North Carolina State University
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**M.S. in Statistics** (2022-2025)  
+North Carolina State University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**M.S. in Animal Breeding and Genetics** (2018-2021)  
+China Agricultural University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**B.S. in Animal Science** (2014-2018)  
+China Agricultural University
 
-Publications
+Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Postdoctoral Researcher** (2025 – Present)  
+North Carolina State University | Advisors: Dr. Christian Maltecca & Dr. Jicai Jiang
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+**Teaching Assistant**
+- Animal Genetic Improvement (ANS 440/540), NC State University (Fall 2023, Fall 2024, Fall 2025)
+- Biostatistics and Experiment Design, China Agricultural University (Spring 2019)
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
