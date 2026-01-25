@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+---
 **Ph.D. in Animal Science** (2021-2025)  
 North Carolina State University
 
@@ -23,8 +23,8 @@ China Agricultural University
 **B.S. in Animal Science** (2014-2018)  
 China Agricultural University
 
-Experience
-======
+## Experience
+---
 **Postdoctoral Researcher** (2025 – Present)  
 North Carolina State University | Advisors: Dr. Christian Maltecca & Dr. Jicai Jiang
   
