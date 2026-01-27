@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "JJ.png"
   name             : "Junjian Wang"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "He/his"  
   bio              : "Ph.D. in Animal Science | Statistical Genomics"
   location         : "Raleigh, NC"
   employer         : "NC State University"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=1w2K_KcAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-4824-9617"
